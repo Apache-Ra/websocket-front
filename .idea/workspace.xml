@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cb10f3c-4e1e-4b9d-bde6-fd253bc2fbbe" name="Default Changelist" comment="修改配置文件，增加seo">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/websocket-front.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/base.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/jquery-3.4.1.min.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="vue/1.0.0" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UQCYGcUMIuEIV5WSDSPFW0BdzT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHub\websocket-front\src\assets\img" />
+      <recent name="D:\GitHub\websocket-front\src\assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\websocket-front\img" />
+      <recent name="D:\GitHub\websocket-front" />
+      <recent name="D:\GitHub\websocket-front\public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cb10f3c-4e1e-4b9d-bde6-fd253bc2fbbe" name="Default Changelist" comment="" />
+      <created>1575279477280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575279477280</updated>
+      <workItem from="1575279478671" duration="3755000" />
+      <workItem from="1575334089600" duration="1641000" />
+      <workItem from="1575350112777" duration="16803000" />
+      <workItem from="1575420719991" duration="24836000" />
+      <workItem from="1575509064744" duration="596000" />
+      <workItem from="1575515585513" duration="15000" />
+      <workItem from="1575599814248" duration="22066000" />
+      <workItem from="1575636074045" duration="7190000" />
+      <workItem from="1575698733262" duration="12493000" />
+    </task>
+    <task id="LOCAL-00001" summary="···">
+      <created>1575455667634</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575455667635</updated>
+    </task>
+    <task id="LOCAL-00002" summary="···">
+      <created>1575599830138</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575599830138</updated>
+    </task>
+    <task id="LOCAL-00003" summary="···">
+      <created>1575599866315</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575599866315</updated>
+    </task>
+    <task id="LOCAL-00004" summary="···">
+      <created>1575601138643</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575601138643</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修改说明信息">
+      <created>1575601429108</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575601429108</updated>
+    </task>
+    <task id="LOCAL-00006" summary="修改版本信息">
+      <created>1575601598492</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575601598492</updated>
+    </task>
+    <task id="LOCAL-00007" summary="修改配置文件，增加seo">
+      <created>1575612093999</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575612093999</updated>
+    </task>
+    <task id="LOCAL-00008" summary="修改配置文件，增加seo">
+      <created>1575705327080</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1575705327080</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="···" />
+    <MESSAGE value="修改说明信息" />
+    <MESSAGE value="修改版本信息" />
+    <MESSAGE value="修改配置文件，增加seo" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改配置文件，增加seo" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="505" y="283" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575279738593">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="505" y="283" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1500.960@0.0.1500.960" timestamp="1575279738593" />
+    <state x="481" y="227" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1575618873570">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="481" y="227" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1500.960@0.0.1500.960" timestamp="1575618873570" />
+    <state x="357" y="72" key="CommitChangelistDialog2" timestamp="1575705398974">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="357" y="72" key="CommitChangelistDialog2/0.0.1500.960@0.0.1500.960" timestamp="1575705398974" />
+    <state x="360" y="257" key="EditFileWatcherDialog" timestamp="1575614355251">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="360" y="257" key="EditFileWatcherDialog/0.0.1500.960@0.0.1500.960" timestamp="1575614355251" />
+    <state x="531" y="235" key="FileChooserDialogImpl" timestamp="1575702152670">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="531" y="235" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1575702152670" />
+    <state width="1480" height="629" key="GridCell.Tab.0.bottom" timestamp="1575642131605">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="629" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1575642131605" />
+    <state width="1480" height="629" key="GridCell.Tab.0.center" timestamp="1575642131605">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="629" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1575642131605" />
+    <state width="1480" height="629" key="GridCell.Tab.0.left" timestamp="1575642131604">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="629" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1575642131604" />
+    <state width="1480" height="629" key="GridCell.Tab.0.right" timestamp="1575642131605">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="629" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1575642131605" />
+    <state x="343" y="213" key="Vcs.Push.Dialog.v2" timestamp="1575705202996">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="343" y="213" key="Vcs.Push.Dialog.v2/0.0.1500.960@0.0.1500.960" timestamp="1575705202996" />
+    <state x="516" y="192" key="git4idea.branch.GitSmartOperationDialog" timestamp="1575705090697">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="516" y="192" key="git4idea.branch.GitSmartOperationDialog/0.0.1500.960@0.0.1500.960" timestamp="1575705090697" />
+    <state x="416" y="209" width="672" height="678" key="search.everywhere.popup" timestamp="1575613600868">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="416" y="209" width="672" height="678" key="search.everywhere.popup/0.0.1500.960@0.0.1500.960" timestamp="1575613600868" />
+  </component>
+</project>
